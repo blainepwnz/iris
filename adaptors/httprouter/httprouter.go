@@ -30,7 +30,7 @@ import (
 	"strings"
 
 	"github.com/kataras/go-errors"
-	"gopkg.in/kataras/iris.v6"
+	"github.com/blainepwnz/iris"
 )
 
 const (
